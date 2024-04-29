@@ -1,4 +1,4 @@
-# hw21_hw2
+# bacterial genome annotation
 
 ## Подготовка файлов
 https://colab.research.google.com/drive/1MevouuFMlP9GlkZetYuQb8AJdiI647xr?usp=sharing
